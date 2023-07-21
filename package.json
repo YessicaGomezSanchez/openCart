@@ -1,16 +1,14 @@
 {
-  "name": "abstractachallenge",
+  "name": "newproject",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Alexander Arango",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^4.2.0",
-    "cypress-xpath": "^2.0.1"
+    "cypress": "^12.17.2"
   }
 }
